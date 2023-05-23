@@ -1,0 +1,16 @@
+/* styles.css */
+
+.buttonClassOne {
+    color: white;
+    background-color: black;
+}
+
+.buttonClassTwo {
+    background-color: yellow;
+}
+
+.buttonClassOne, 
+.buttonClassTwo {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
