@@ -59,26 +59,26 @@ ul {
   padding: 0;
 }
 
-li {
-  margin-bottom: 16px;
-}
-
 a {
   color: white;
   text-decoration: none;
   font-size: 24px;
 }
 
-.container {
-  padding: 32px;
-  display: flex;
-  flex-wrap: wrap;
-}
-
 .card {
   padding: 16px;
   margin: 16px;
   width: 300px;
+}
+
+.container {
+  gap: 24px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  margin-bottom: 16px;
 }
 
 .footer {
